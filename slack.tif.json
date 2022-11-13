@@ -1,0 +1,882 @@
+{
+  "version": "TanaIntermediateFile V0.1",
+  "summary": {
+    "leafNodes": 7,
+    "topLevelNodes": 1,
+    "totalNodes": 7,
+    "calendarNodes": 0,
+    "fields": 35,
+    "brokenRefs": 0
+  },
+  "nodes": [
+    {
+      "uid": "usersUid",
+      "name": "Users",
+      "children": [
+        {
+          "uid": "U03SPLK3ZAB",
+          "name": "Ale",
+          "children": [
+            {
+              "name": "UserName",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "gduu5wgjcp5gscmeli9kd",
+              "children": [
+                {
+                  "name": "ale",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "horrvvpgkroip6uxl1n53",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "8o67nxzntalccl921e4wo9",
+              "children": [
+                {
+                  "name": "Europe/Warsaw",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "1r90c1dzt1n9go6zmcrfnj",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz_label",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "ibnilebtvt85do9a1v8jhf",
+              "children": [
+                {
+                  "name": "Central European Time",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "7q3dm1om60canu8jhe1xns",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz_offset",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "5ui5rlcvq4iav193i13cd",
+              "children": [
+                {
+                  "name": "3600",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "4pvdm3ysrle8lju2nt4bk",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "deleted",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "rb6x2cqdwkgq8kmbyjk85g",
+              "children": [
+                {
+                  "name": "false",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "oe5t77wj7ccz8mv6oiy66l",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            }
+          ],
+          "createdAt": 1668353703610,
+          "editedAt": 1668353703610,
+          "supertags": [
+            "slack-user-uid"
+          ],
+          "type": "node"
+        },
+        {
+          "uid": "U03SZSY11MM",
+          "name": "Ula",
+          "children": [
+            {
+              "name": "UserName",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "d6cikpwpbk9ba32dnjlzcw",
+              "children": [
+                {
+                  "name": "pis",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "y395pnhhhjb81wdh3v7xjw",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "xytjvlo5dd8dl13k7g8qfi",
+              "children": [
+                {
+                  "name": "Europe/Warsaw",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "ka86smhwk0o3a42fhoywkq",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz_label",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "5qr4cri5b75ax71u1tmvq",
+              "children": [
+                {
+                  "name": "Central European Time",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "0sn8y4mr8djf63fe7yowdbg",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz_offset",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "odm6xtx4zknpl7glfn6bcl",
+              "children": [
+                {
+                  "name": "3600",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "vf7ih4xgstf39jyqbhzyuu",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "deleted",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "cnm2p2rew2rv1eq9h0w7f",
+              "children": [
+                {
+                  "name": "false",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "tufvlrmjfspkmeg44xpkg",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            }
+          ],
+          "createdAt": 1668353703610,
+          "editedAt": 1668353703610,
+          "supertags": [
+            "slack-user-uid"
+          ],
+          "type": "node"
+        },
+        {
+          "uid": "U03TA5Y91FH",
+          "name": "Bas",
+          "children": [
+            {
+              "name": "UserName",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "ozq74byab3rsuiwsrq720a",
+              "children": [
+                {
+                  "name": "bas",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "vvmh1dy6zh4mypguta10k",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "bmsyhoztj7htmp6jtpbvz",
+              "children": [
+                {
+                  "name": "Europe/Warsaw",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "y8r21dkzmzfrqdrqpwjeb",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz_label",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "5hcjhd8y717mqsb3fbah5e",
+              "children": [
+                {
+                  "name": "Central European Time",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "hr8m6sqkz89rwweplnv7sh",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz_offset",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "y9ctw2ws67wy2vau6gbi",
+              "children": [
+                {
+                  "name": "3600",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "iejyzv5imlm4sn3m3887q5",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "deleted",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "s2xidxldep7ibyprpox5o",
+              "children": [
+                {
+                  "name": "false",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "bovt19mff84mlqok2gjqr",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            }
+          ],
+          "createdAt": 1668353703610,
+          "editedAt": 1668353703610,
+          "supertags": [
+            "slack-user-uid"
+          ],
+          "type": "node"
+        },
+        {
+          "uid": "U03TSMJKPBM",
+          "name": "Woj",
+          "children": [
+            {
+              "name": "UserName",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "i8ultq4nclekhb5hg4bnpm",
+              "children": [
+                {
+                  "name": "wma",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "0cxdwshhac5lq8rjf7fcuup",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "8gbywmg1ze2tlqu9iqpfi",
+              "children": [
+                {
+                  "name": "Europe/Warsaw",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "r74v0fbu9vnqxh68sz6ji",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz_label",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "6ial4p0l1f5ardczm50il9",
+              "children": [
+                {
+                  "name": "Central European Time",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "8yv2lzow36w84k73phn2nj",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz_offset",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "83twmklgejuz880zrot5qi",
+              "children": [
+                {
+                  "name": "3600",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "y1yrv8cr26htunnmnquy1s",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "deleted",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "70cnvz6tld4u5ns6j9y6ge",
+              "children": [
+                {
+                  "name": "false",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "ictm804oiqp66orz8qfzk",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            }
+          ],
+          "createdAt": 1668353703610,
+          "editedAt": 1668353703610,
+          "supertags": [
+            "slack-user-uid"
+          ],
+          "type": "node"
+        },
+        {
+          "uid": "U03TTUDRSQG",
+          "name": "Pio",
+          "children": [
+            {
+              "name": "UserName",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "6a3zqgxjh5e1nsbpit00b9",
+              "children": [
+                {
+                  "name": "pzo",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "sfk1chv8fu90m0zurj5wo",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "dqtav8f6da66c2hzh6g57e",
+              "children": [
+                {
+                  "name": "Europe/Warsaw",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "twhbfwh21e28hkfzffwso",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz_label",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "5foqftu7e03bi7ud987yee",
+              "children": [
+                {
+                  "name": "Central European Time",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "seyefitcnu15cok7j3vfo",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz_offset",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "zv43azonzgd17zepsz5i4",
+              "children": [
+                {
+                  "name": "3600",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "c37cxy9n6sdya4aqr54oo",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "deleted",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "t1gv2m6li40yj2x4fg4ctg",
+              "children": [
+                {
+                  "name": "false",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "pl47ir3blhdyppxt1fdhv",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            }
+          ],
+          "createdAt": 1668353703610,
+          "editedAt": 1668353703610,
+          "supertags": [
+            "slack-user-uid"
+          ],
+          "type": "node"
+        },
+        {
+          "uid": "U03VCE8SUGJ",
+          "name": "Kar",
+          "children": [
+            {
+              "name": "UserName",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "l4bpcsgx2ssps9efmpnxke",
+              "children": [
+                {
+                  "name": "kzo",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "kj0nky2dy8dtdgk40pk83",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "fta9dmra7fbwj5qru43zhb",
+              "children": [
+                {
+                  "name": "Europe/Warsaw",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "4of9xlb2u5yizh0paaffhd",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz_label",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "suyar0wgonk4pj5oz5jmn8",
+              "children": [
+                {
+                  "name": "Central European Time",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "abhxrb4r2m5z5z6mncdhx9",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz_offset",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "o1yrfbn7hds22h4xs97x3a",
+              "children": [
+                {
+                  "name": "3600",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "eqzzc5cv6nu4153iqgijj",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "deleted",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "pbyjugdoi79e3ug1z53qo",
+              "children": [
+                {
+                  "name": "false",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "63eqhn58u6u9mahtith0r",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            }
+          ],
+          "createdAt": 1668353703610,
+          "editedAt": 1668353703610,
+          "supertags": [
+            "slack-user-uid"
+          ],
+          "type": "node"
+        },
+        {
+          "uid": "U040B1P5L2V",
+          "name": "Kar",
+          "children": [
+            {
+              "name": "UserName",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "csnmzw06sl5bb5y85vri9",
+              "children": [
+                {
+                  "name": "kar",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "ox0ujun4gegbmw993klc29",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "45s8xy5xgfhg7v6i18dvar",
+              "children": [
+                {
+                  "name": "Europe/Amsterdam",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "pwoxwtdvric16kqzjqb978",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz_label",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "dav0nzlif7jc89kznuitvr",
+              "children": [
+                {
+                  "name": "Central European Time",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "o3aj9uttqzhg4ufy7o7tfr",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "tz_offset",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "z50nqkqw6z1tjmpr7g4sl",
+              "children": [
+                {
+                  "name": "3600",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "w7aldy151cpc65umfyo3no",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            },
+            {
+              "name": "deleted",
+              "createdAt": 1668353703610,
+              "editedAt": 1668353703610,
+              "type": "field",
+              "uid": "aqqyiqav1ppzrijz5l8ycm",
+              "children": [
+                {
+                  "name": "false",
+                  "createdAt": 1668353703610,
+                  "editedAt": 1668353703610,
+                  "type": "node",
+                  "uid": "yfmqgk60wen016h4sf0r76y",
+                  "children": [],
+                  "refs": [],
+                  "supertags": []
+                }
+              ],
+              "refs": [],
+              "supertags": []
+            }
+          ],
+          "createdAt": 1668353703610,
+          "editedAt": 1668353703610,
+          "supertags": [
+            "slack-user-uid"
+          ],
+          "type": "node"
+        }
+      ],
+      "createdAt": 1668353703610,
+      "editedAt": 1668353703610,
+      "type": "node"
+    }
+  ],
+  "supertags": [
+    {
+      "uid": "slack-user-uid",
+      "name": "slack-user"
+    },
+    {
+      "uid": "slack-message-uid",
+      "name": "slack-message"
+    },
+    {
+      "uid": "slack-channel-uid",
+      "name": "slack-channel"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "UserName",
+      "values": [],
+      "count": 1
+    },
+    {
+      "name": "tz",
+      "values": [],
+      "count": 1
+    },
+    {
+      "name": "tz_label",
+      "values": [],
+      "count": 1
+    },
+    {
+      "name": "tz_offset",
+      "values": [],
+      "count": 1
+    },
+    {
+      "name": "deleted",
+      "values": [],
+      "count": 1
+    }
+  ]
+}

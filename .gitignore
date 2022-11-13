@@ -5,3 +5,5 @@ dist
 .env
 datasets
 yarn-error.log
+.yarn
+package-lock.json

@@ -23,6 +23,9 @@ If you are making changes that you think will benefit other users, please create
 
 `yarn convert:workflowy datasets/my_workflowy_export.opml`
 
+#### Converting Slack directories to Tana JSON
+`yarn convert:slack path_to_dir slack
+
 # ✍️ Contributing
 
 We are always looking for new importers and as well as improvements to existing ones! Contributions from open-source developers are greatly appreciated.
